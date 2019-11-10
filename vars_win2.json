@@ -1,0 +1,18 @@
+{
+    "vsphere_server": "vcenter.nyc.systemadmin.com",
+    "vsphere_user": "administrator@vsphere.local",
+    "vsphere_password": "C9Xzez#z2ZX#R*@Ye",
+    "vsphere_template_name": "Win2016_Packer01",
+    "vsphere_folder": "Templates",
+    "vsphere_dc_name": "SystemAdmin",
+    "vsphere_compute_cluster": "nyc.systemadmin.com",
+    "vsphere_host": "esx-e.nyc.systemadmin.com",
+    "vsphere_portgroup_name": "Staging (170)",
+    "vsphere_datastore": "san3-vsan",
+    "winadmin_password": "Pr0finity!",
+    "cpu_num": "4",
+    "mem_size": "8192",
+    "disk_size": "32768",
+    "os_iso_path": "[san3-vsan] ISO/SW_DVD9_Win_Svr_STD_Core_and_DataCtr_Core_2016_64Bit_English_-3_MLF_X21-30350.ISO",
+    "vmtools_iso_path":"[san3-vsan] ISO/vmt11.iso"
+}
